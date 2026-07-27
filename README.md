@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=6B7F90&center=true&vCenter=true&width=800&lines=Building+tools+that+make+things+easier;Open+source+enthusiast+from+Beijing" alt="typing tagline">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=6B7F90&center=true&vCenter=true&width=800&lines=Building+tools+that+make+things+easier;Open+source+enthusiast" alt="typing tagline">
 </p>
 
 ## 关于我
 
-我是 **aliveranme**，坐标 **北京**，目前在 **中央民族大学**（Minzu University of China）学习/工作。热爱计算机、自动化工具和实用的开发者小玩具。
+我是 **aliveranme**，一名热爱计算机、自动化工具和实用开发者小玩具的 builder。
 
 - 最近关注：命令行工具、下载/自动化脚本
 - 一直在学习新技术，喜欢边做边学

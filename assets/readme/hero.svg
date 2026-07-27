@@ -29,7 +29,7 @@
   <g transform="translate(80, 94)">
     <text class="sans" font-size="22" font-weight="600" fill="#94AAB9">Hi, I'm</text>
     <text class="sans" y="72" font-size="68" font-weight="750" fill="#3C4F66">aliveranme</text>
-    <text class="sans" y="126" font-size="28" fill="#6F7F90">a computer lover · Beijing</text>
+    <text class="sans" y="126" font-size="28" fill="#6F7F90">a computer lover</text>
   </g>
 
   <!-- quick stats panel -->
