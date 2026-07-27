@@ -106,48 +106,7 @@
 
 </details>
 
-### 🎵 Spotify 正在播放 / 最近听过
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://raw.githubusercontent.com/kittinan/spotify-github-profile/master/img/default.svg" alt="Spotify 最近播放" width="400">
-  </a>
-</p>
-
-<details>
-<summary>接入 Spotify</summary>
-
-按 [spotify-github-profile 文档](https://github.com/kittinan/spotify-github-profile) 在 Vercel 部署自己的端点并拿到 `refresh_token`，然后把图片 URL 替换为你的个人端点即可。如果只想展示“最近播放”，也可换成 [spotify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme)。
-
-</details>
-
-### 📻 Last.fm 最近听过
-
-<p align="center">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=YOUR_LASTFM_USERNAME" alt="Last.fm 最近播放" width="400">
-</p>
-
-<details>
-<summary>接入 Last.fm</summary>
-
-把 `YOUR_LASTFM_USERNAME` 替换为你的 Last.fm 用户名。服务来自 [JeffreyCA/lastfm-recently-played-readme](https://github.com/JeffreyCA/lastfm-recently-played-readme)。
-
-</details>
-
-### ⏰ WakaTime 编码统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aliveranme&theme=buefy&hide_border=true&layout=compact" alt="WakaTime 统计">
-</p>
-
-<details>
-<summary>接入 WakaTime</summary>
-
-1. 在 [WakaTime](https://wakatime.com) 注册并安装编辑器插件。
-2. 进入 WakaTime → Settings → Privacy，开启 “Display coding activity publicly”。
-3. 若 `username` 方式无法显示，可使用 WakaTime 的公开 Share URL，替换掉上方的 `img src`。
-
-</details>
 
 ## 📫 联系我
 
