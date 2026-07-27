@@ -32,8 +32,6 @@
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-9FB8DB?logo=visualstudiocode&logoColor=fff&style=flat-square">
 </p>
 
-> 上面的技能标签订可随时在 README.md 里增删，只需替换 shield 中的 logo 和颜色即可。
-
 ## GitHub 概览
 
 <p align="center">
