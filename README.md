@@ -70,7 +70,7 @@
   <img src="./assets/readme/section-live-widgets.svg" width="100%" alt="Live Widgets 分区标题">
 </p>
 
-> 以下组件需要你额外配置对应服务或 GitHub Action；未配置前会显示示例图或空白，按说明接入后即可自动刷新。
+> 以下动态组件已配置 GitHub Actions 自动刷新。
 
 ### 🌇 3D 贡献图
 
@@ -78,12 +78,7 @@
   <img src="https://raw.githubusercontent.com/aliveranme/aliveranme/main/profile-3d-contrib/profile-green-animate.svg" width="99%" alt="3D 贡献图">
 </p>
 
-<details>
-<summary>启用 3D 贡献图</summary>
 
-参考 [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)，在 `aliveranme/aliveranme` 仓库配置 GitHub Action，让它定时生成 `profile-3d-contrib/profile-green-animate.svg` 并提交到 `main` 分支即可。
-
-</details>
 
 ### 🏙️ GitHub Skyline
 
@@ -99,12 +94,7 @@
   <img src="https://raw.githubusercontent.com/aliveranme/aliveranme/output/github-contribution-grid-snake.svg" alt="动态贡献贪吃蛇">
 </p>
 
-<details>
-<summary>启用贪吃蛇动画</summary>
 
-参考 [Platane/snk](https://github.com/Platane/snk) 配置 GitHub Action。它会根据你的贡献网格生成 `github-contribution-grid-snake.svg`，默认输出到 `output` 分支。你也可以选用 dark/light 配色或生成 GIF。
-
-</details>
 
 
 
