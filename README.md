@@ -66,7 +66,6 @@
   <img src="./assets/readme/section-live-widgets.svg" width="100%" alt="Live Widgets section header">
 </p>
 
-> 以下动态组件已配置 GitHub Actions 自动刷新。
 
 ### 3D 贡献图
 
