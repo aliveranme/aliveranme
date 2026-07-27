@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Achievements showcase</title>
+  <desc id="desc">A light pastel showcase of GitHub profile achievements earned by aliveranme.</desc>
+  <defs>
+    <style>
+      .sans {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="160" rx="28" fill="#FDF8F4"/>
+
+  <!-- achievement pills -->
+  <g transform="translate(26, 48)" class="sans" font-size="18" font-weight="600">
+    <!-- Pair Extraordinaire -->
+    <g transform="translate(0, 0)">
+      <rect width="188" height="64" rx="18" fill="#FFFFFF" stroke="#E9EDF2" stroke-width="1.5"/>
+      <text x="24" y="29" fill="#3C4F66">🤝 Pair</text>
+      <text x="24" y="51" font-size="14" font-weight="500" fill="#8A9CAD">Extraordinaire</text>
+    </g>
+
+    <!-- YOLO -->
+    <g transform="translate(204, 0)">
+      <rect width="140" height="64" rx="18" fill="#FFFFFF" stroke="#E9EDF2" stroke-width="1.5"/>
+      <text x="24" y="29" fill="#3C4F66">🎲 YOLO</text>
+      <text x="24" y="51" font-size="14" font-weight="500" fill="#8A9CAD">Merge first</text>
+    </g>
+
+    <!-- Starstruck -->
+    <g transform="translate(360, 0)">
+      <rect width="172" height="64" rx="18" fill="#FFFFFF" stroke="#E9EDF2" stroke-width="1.5"/>
+      <text x="24" y="29" fill="#3C4F66">⭐ Starstruck</text>
+      <text x="24" y="51" font-size="14" font-weight="500" fill="#8A9CAD">×2</text>
+    </g>
+
+    <!-- Quickdraw -->
+    <g transform="translate(548, 0)">
+      <rect width="174" height="64" rx="18" fill="#FFFFFF" stroke="#E9EDF2" stroke-width="1.5"/>
+      <text x="24" y="29" fill="#3C4F66">⚡ Quickdraw</text>
+      <text x="24" y="51" font-size="14" font-weight="500" fill="#8A9CAD">Fast first issue</text>
+    </g>
+
+    <!-- Pull Shark -->
+    <g transform="translate(738, 0)">
+      <rect width="174" height="64" rx="18" fill="#FFFFFF" stroke="#E9EDF2" stroke-width="1.5"/>
+      <text x="24" y="29" fill="#3C4F66">🦈 Pull Shark</text>
+      <text x="24" y="51" font-size="14" font-weight="500" fill="#8A9CAD">×2</text>
+    </g>
+
+    <!-- Pro / Developer badge stand-in -->
+    <g transform="translate(928, 0)">
+      <rect width="220" height="64" rx="18" fill="#FFFFFF" stroke="#E9EDF2" stroke-width="1.5"/>
+      <text x="24" y="29" fill="#3C4F66">Developer Program</text>
+      <text x="24" y="51" font-size="14" font-weight="500" fill="#8A9CAD">Member · Pro</text>
+    </g>
+  </g>
+</svg>

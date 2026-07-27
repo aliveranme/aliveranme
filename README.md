@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://github.com/aliveranme/BBDown">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliveranme&repo=BBDown&theme=buefy&hide_border=true" alt="BBDown 项目卡片">
+    <img src="./assets/readme/pinned-bbdown.svg" width="100%" alt="BBDown 项目卡片">
   </a>
 </p>
 
@@ -55,7 +55,7 @@
 ## 🏆 成就
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aliveranme&theme=flat&no-frame=true&column=7" alt="GitHub 成就奖杯">
+  <img src="./assets/readme/achievements.svg" width="100%" alt="GitHub 成就展示">
 </p>
 
 <p align="center">
