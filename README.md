@@ -1,22 +1,22 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="aliveranme 的个人主页欢迎图">
+  <img src="./assets/readme/hero.svg" width="100%" alt="aliveranme profile welcome banner">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=6B7F90&center=true&vCenter=true&width=800&lines=Building+tools+that+make+things+easier;Open+source+enthusiast+from+Beijing" alt="动态签名">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=6B7F90&center=true&vCenter=true&width=800&lines=Building+tools+that+make+things+easier;Open+source+enthusiast+from+Beijing" alt="typing tagline">
 </p>
 
-## 👋 关于我
+## 关于我
 
 我是 **aliveranme**，坐标 **北京**，目前在 **中央民族大学**（Minzu University of China）学习/工作。热爱计算机、自动化工具和实用的开发者小玩具。
 
-- 🔭 最近关注：命令行工具、下载/自动化脚本
-- 🌱 一直在学习新技术，喜欢边做边学
-- 💬 欢迎聊聊 CLI 工具、开源项目或者自动化工作流
-- ⚡ 座右铭：让代码解决重复劳动
+- 最近关注：命令行工具、下载/自动化脚本
+- 一直在学习新技术，喜欢边做边学
+- 欢迎聊聊 CLI 工具、开源项目或者自动化工作流
+- 座右铭：让代码解决重复劳动
 
 <p align="center">
-  <img src="./assets/readme/section-tech-stack.svg" width="100%" alt="Tech Stack 分区标题">
+  <img src="./assets/readme/section-tech-stack.svg" width="100%" alt="Tech Stack section header">
 </p>
 
 <p align="center">
@@ -32,71 +32,61 @@
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-9FB8DB?logo=visualstudiocode&logoColor=fff&style=flat-square">
 </p>
 
-> 上面的技能标签订可随时在 `README.md` 里增删，只需替换 shield 中的 `logo` 和颜色即可。
+> 上面的技能标签订可随时在 README.md 里增删，只需替换 shield 中的 logo 和颜色即可。
 
-## 📊 GitHub 概览
+## GitHub 概览
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliveranme&show_icons=true&theme=buefy&hide_border=true" alt="GitHub 统计" height="170">
-  <img src="https://streak-stats.demolab.com?user=aliveranme&theme=buefy&hide_border=true" alt="连续贡献记录" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliveranme&layout=compact&theme=buefy&hide_border=true" alt="常用语言" height="170">
+  <img src="./assets/readme/stats-overview.svg" width="100%" alt="GitHub overview stats">
 </p>
 
-## 🚀 精选项目
+## 精选项目
 
 <p align="center">
   <a href="https://github.com/aliveranme/BBDown">
-    <img src="./assets/readme/pinned-bbdown.svg" width="100%" alt="BBDown 项目卡片">
+    <img src="./assets/readme/pinned-bbdown.svg" width="100%" alt="BBDown project card">
   </a>
 </p>
 
 [Bilibili Downloader](https://github.com/aliveranme/BBDown) — 一个命令行式哔哩哔哩下载器，fork 自 [nilaoda/BBDown](https://github.com/nilaoda/BBDown)。
 
-## 🏆 成就
+## 成就
 
 <p align="center">
-  <img src="./assets/readme/achievements.svg" width="100%" alt="GitHub 成就展示">
+  <img src="./assets/readme/achievements.svg" width="100%" alt="GitHub achievements showcase">
 </p>
 
 <p align="center">
-  <img src="./assets/readme/section-activity.svg" width="100%" alt="GitHub Activity 分区标题">
+  <img src="./assets/readme/section-activity.svg" width="100%" alt="GitHub Activity section header">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliveranme&theme=github-light&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub 贡献活动图" width="99%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliveranme&theme=github-light&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" width="99%">
 </p>
 
 <p align="center">
-  <img src="./assets/readme/section-live-widgets.svg" width="100%" alt="Live Widgets 分区标题">
+  <img src="./assets/readme/section-live-widgets.svg" width="100%" alt="Live Widgets section header">
 </p>
 
 > 以下动态组件已配置 GitHub Actions 自动刷新。
 
-### 🌇 3D 贡献图
+### 3D 贡献图
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aliveranme/aliveranme/main/profile-3d-contrib/profile-green-animate.svg" width="99%" alt="3D 贡献图">
+  <img src="https://raw.githubusercontent.com/aliveranme/aliveranme/main/profile-3d-contrib/profile-green-animate.svg" width="99%" alt="3D contribution graph">
 </p>
 
-
-
-
-
-### 🐍 动态贡献贪吃蛇
+### 动态贡献贪吃蛇
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aliveranme/aliveranme/output/github-contribution-grid-snake.svg" alt="动态贡献贪吃蛇">
+  <img src="https://raw.githubusercontent.com/aliveranme/aliveranme/output/github-contribution-grid-snake.svg" alt="animated contribution snake">
 </p>
 
-
-
-
-
-## 📫 联系我
+## 联系我
 
 - GitHub: [@aliveranme](https://github.com/aliveranme)
 - 如想交流合作，欢迎在仓库里提交 Issue 或 Discussion。
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aliveranme&color=9FB8CC&style=flat-square" alt="个人主页访问量">
+  <img src="https://komarev.com/ghpvc/?username=aliveranme&color=9FB8CC&style=flat-square" alt="profile views">
 </p>

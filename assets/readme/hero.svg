@@ -38,7 +38,7 @@
     <text class="sans" x="30" y="42" font-size="15" font-weight="700" letter-spacing="1" fill="#A9BCC9">QUICK STATS</text>
 
     <g transform="translate(30, 80)">
-      <text class="sans" font-size="38" font-weight="700" fill="#3C4F66">66</text>
+      <text class="sans" font-size="38" font-weight="700" fill="#3C4F66">276</text>
       <text class="sans" y="26" font-size="16" fill="#8A9CAD">Stars</text>
     </g>
 
