@@ -80,13 +80,7 @@
 
 
 
-### 🏙️ GitHub Skyline
 
-<p align="center">
-  <a href="https://skyline.github.com/aliveranme/2023">
-    <img src="https://img.shields.io/badge/🌇%20View%20my%20GitHub%20Skyline-8A9CAD?style=flat-square" alt="GitHub Skyline">
-  </a>
-</p>
 
 ### 🐍 动态贡献贪吃蛇
 
